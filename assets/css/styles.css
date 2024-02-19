@@ -694,7 +694,7 @@ body.dark-theme{
 
   .active-link{
     color: var(--title-color);
-    text-decoration: line-through;
+    text-decoration: underline;
   }
 
   .change-theme{
